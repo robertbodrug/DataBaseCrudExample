@@ -1,0 +1,10 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ8ζΨδε1
+n
+java:S3008"QRename this field "DB_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»έΰί8ώΨδε1
+u
+java:S3008"SRename this field "USERNAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ές½³ωÿÿÿÿ8ώΨδε1
+u
+java:S3008"SRename this field "PASSWORD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚‘ΩΒϊÿÿÿÿ8ώΨδε1
+K
+java:S2115")Add password protection to this database.(¶•ΐύÿÿÿÿ8Ψδε1
