@@ -1,12 +1,13 @@
 
-‹
-java:S1130
-"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(Á¯¦ş8Îè »æ1
-G	java:S106"+Replace this use of System.out by a logger.( œÊ§8¢«Öºæ1
-L	java:S106"+Replace this use of System.out by a logger.(Öì’ñıÿÿÿÿ8¢«Öºæ1
-G	java:S106"+Replace this use of System.out by a logger.(ó˜ì8‡®×ºæ1
-L	java:S106"+Replace this use of System.out by a logger.(Öì’ñıÿÿÿÿ8‡®×ºæ1
-L	java:S106"+Replace this use of System.out by a logger.(äë™úÿÿÿÿ8“ÖØºæ1
-L	java:S106"+Replace this use of System.out by a logger.(Öì’ñıÿÿÿÿ8Å¥»æ1
+L	java:S106"+Replace this use of System.out by a logger.(®«ƒîÿÿÿÿÿ8áÄ’¿æ1
+F	java:S106"+Replace this use of System.out by a logger.(…È¹8áÄ’¿æ1
+G	java:S106"+Replace this use of System.out by a logger.(ÄôÏû8áÄ’¿æ1
+L	java:S106"+Replace this use of System.out by a logger.(®«ƒîÿÿÿÿÿ8áÄ’¿æ1
+S
+java:S1128"6Remove this unused import 'com.example.dao.ClientDao'.(äı Š8ğçö¾æ1
 \
-java:S1128":Remove this unused import 'com.example.database.Database'.(µä±²øÿÿÿÿ8Ğè »æ1
+java:S1128":Remove this unused import 'com.example.database.Database'.(µä±²øÿÿÿÿ8ğçö¾æ1
+R
+java:S1128"5Remove this unused import 'com.example.model.Client'.(Ğæ¤8ğçö¾æ1
+O
+java:S1128"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ8ğçö¾æ1

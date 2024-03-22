@@ -13,13 +13,15 @@ VALUES
 (10,'Christopher','1950-11-02','Senior',9000);
 
 INSERT INTO CLIENT
-(ID,NAME)
+(NAME)
 VALUES
-(1,'Anthony'),
-(2,'Donna'),
-(3,'Joshua'),
-(4,'Brian'),
-(5,'Melissa');
+('Anthony'),
+('Donna'),
+('Joshua'),
+('Brian'),
+('Vlad'),
+('Giorgio'),
+('Melissa');
 
 INSERT INTO PROJECT
 (ID,CLIENT_ID,START_DATE,FINISH_DATE)
